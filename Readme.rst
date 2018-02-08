@@ -11,9 +11,11 @@
 	:alt: PyPI version
 
 .. image:: https://img.shields.io/pypi/pyversions/erichek.svg
+	:target: https://img.shields.io/pypi/pyversions/erichek.svg
 	:alt: Python version
 
 .. image:: https://img.shields.io/pypi/wheel/erichek.svg
+	:target: https://img.shields.io/pypi/wheel/erichek.svg
 	:alt: Wheel
 
 .. image:: https://travis-ci.org/Kristinita/Erichek.svg?branch=master
